@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(128, 128, 128, 0.422);
+    font-weight: 50px;
+}
+.personal h3{
+    text-align: right;
+    border-bottom: 2px;
+}
+.personal{
+    background-color:rgba(128, 128, 128, 0.23);
+    color: rgb(73, 66, 66);
+}
